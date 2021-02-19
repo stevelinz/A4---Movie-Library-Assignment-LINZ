@@ -4,8 +4,11 @@ using System.IO;
 
 namespace A4___Movie_Library_Assignment_LINZ
 {
-    class ListMovie
+
+ 
+   public class ListMovie
     {
+        StreamReader sr = new StreamReader("movies.csv");
         NLogger nLogger = new NLogger();
         private const int V = 30;
         int currentStart = 0;
@@ -15,7 +18,7 @@ namespace A4___Movie_Library_Assignment_LINZ
 
         string line = "";
 
-        StreamReader sr = new StreamReader("movies.csv");
+       
         public void useFile()
         {
 
@@ -79,6 +82,8 @@ namespace A4___Movie_Library_Assignment_LINZ
             System.Console.WriteLine(line);
 
         }
+
+        
     }
 
 

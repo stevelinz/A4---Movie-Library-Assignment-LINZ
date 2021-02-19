@@ -3,10 +3,11 @@ using System.IO;
 
 namespace A4___Movie_Library_Assignment_LINZ
 {
-    class AddMovie
+   public  class AddMovie
     {
         ActionSelected action = new ActionSelected();
         NLogger nLogger = new NLogger();
+        string movieName = "";
 
         string file = "movies.csv";
         StreamReader sr = new StreamReader("movies.csv");
@@ -49,7 +50,7 @@ namespace A4___Movie_Library_Assignment_LINZ
                 movieIdNew = int.Parse(movieId);
                 movieIdNew++;
 
-                string movieName = "";
+
                 Console.Write("Enter the name of the movie you want to add, date in form (yyyy)\n");
                 System.Console.WriteLine("\t(You will have the opportunity to abort if needed)");
 
@@ -164,6 +165,6 @@ namespace A4___Movie_Library_Assignment_LINZ
 
     }
 
-
+   
 }
 

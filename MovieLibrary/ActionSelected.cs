@@ -5,14 +5,14 @@ using System.IO;
 
 namespace A4___Movie_Library_Assignment_LINZ
 {
-    class ActionSelected : IMenus
+    public class ActionSelected : IMenus
     {
 
-
+        string select = "4";
         public void selectAction()
         {
             NLogger nLogger = new NLogger();
-            string select = "";
+            
             System.Console.WriteLine("\n   ~~~~Movie Library Database~~~~ ");
         andAgain:
             System.Console.WriteLine("Enter: \n1 List the movies \n2 Add a new Movie \n3 Exit program\n");
@@ -43,6 +43,11 @@ namespace A4___Movie_Library_Assignment_LINZ
             
 
         }
+        public int friendlySelect ()
+        {
+        return Int32.Parse(select); 
+    }
 
     }
+    
 }
