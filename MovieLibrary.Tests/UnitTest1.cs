@@ -9,7 +9,7 @@ namespace A4___Movie_Library_Assignment_LINZ
     public class UnitTest1
     {
         [Fact]
-        public void movieCountNotZero()
+        public void testNumberSelects()
         {
           ActionSelected actionSelected = new ActionSelected();
           int testValue = actionSelected.friendlySelect();
@@ -17,8 +17,9 @@ namespace A4___Movie_Library_Assignment_LINZ
           if(testValue < 1 || testValue > 3){
              result = false;
           }
-          Assert.True(result, "Selects remain the same ");
+          Assert.False(result, "Selections remain the same ");
 
         }
+        
     }
 }
