@@ -1,0 +1,48 @@
+
+2021-02-14 12:49:23.7570 INFO Movies viewed in reserve order.
+2021-02-14 12:49:46.1890 INFO Quit the movie viewing.
+2021-02-14 12:49:50.6212 INFO Wrong input at Select Action 
+2021-02-14 12:49:54.7945 INFO LIST at Select Action 
+2021-02-14 15:44:55.2107 INFO Movies viewed in reserve order.
+2021-02-14 15:45:05.5577 INFO Quit the movie viewing.
+2021-02-14 15:45:13.1426 INFO Wrong input at Select Action 
+2021-02-14 15:45:16.1681 INFO ADD at Select Action 
+2021-02-14 15:45:39.7586 INFO Aborted the new movie add
+2021-02-14 15:45:48.8482 INFO Wrong input at Select Action 
+2021-02-14 15:45:54.0451 INFO LIST at Select Action 
+2021-02-14 15:46:07.9058 INFO Quit the movie viewing.
+2021-02-14 15:46:13.2286 INFO EXIT at Select Action 
+2021-02-14 15:46:33.9006 INFO ADD at Select Action 
+2021-02-14 15:46:47.7957 INFO Aborted the new movie add
+2021-02-14 15:46:58.2027 INFO EXIT at Select Action 
+2021-02-14 15:49:38.0671 INFO Wrong input at Select Action 
+2021-02-14 15:49:41.3643 INFO ADD at Select Action 
+2021-02-14 15:49:53.6847 INFO Tried to add an existing movie
+2021-02-15 15:11:46.6912 INFO EXIT at Select Action 
+2021-02-15 15:26:19.9192 INFO EXIT at Select Action 
+2021-02-18 10:46:11.5964 INFO EXIT at Select Action 
+2021-02-18 10:54:40.3189 INFO LIST at Select Action 
+2021-02-18 10:54:45.5086 INFO Quit the movie viewing.
+2021-02-18 10:54:47.6139 INFO ADD at Select Action 
+2021-02-18 10:54:51.3937 INFO Aborted the new movie add
+2021-02-18 10:54:51.6306 INFO Wrong input at Select Action 
+2021-02-18 10:54:54.6328 INFO EXIT at Select Action 
+2021-02-18 11:11:03.0019 INFO LIST at Select Action 
+2021-02-18 11:11:05.9071 INFO Movies viewed in reserve order.
+2021-02-18 11:11:18.0007 INFO Quit the movie viewing.
+2021-02-18 11:11:21.6811 INFO Wrong input at Select Action 
+2021-02-18 11:11:24.4477 INFO ADD at Select Action 
+2021-02-18 11:11:37.8118 INFO Aborted the new movie add
+2021-02-18 11:11:45.7887 INFO EXIT at Select Action 
+2021-02-18 16:12:34.4464 INFO EXIT at Select Action 
+2021-02-18 16:17:12.6265 INFO LIST at Select Action 
+2021-02-18 16:17:19.3717 INFO Quit the movie viewing.
+2021-02-18 16:17:21.2856 INFO EXIT at Select Action 
+2021-02-18 17:48:02.3712 INFO LIST at Select Action 
+2021-02-18 17:48:07.4744 INFO Quit the movie viewing.
+2021-02-18 17:48:11.0968 INFO EXIT at Select Action 
+2021-02-18 19:34:32.5535 INFO Wrong input at Select Action 
+2021-02-18 19:34:57.2789 INFO Wrong input at Select Action 
+2021-02-18 19:35:03.8337 INFO LIST at Select Action 
+2021-02-18 19:35:23.4537 INFO Movies viewed in reserve order.
+2021-02-18 19:35:32.7114 INFO Quit the movie viewing.
